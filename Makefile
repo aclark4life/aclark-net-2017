@@ -385,3 +385,7 @@ webpack-init:
 	echo "module.exports = { entry: './entry.js', output: { filename: 'bundle.js' } }" > webpack.config.js
 webpack:
 	webpack
+
+# aclarknet-db
+PROJECT=aclarknet
+APP=db
