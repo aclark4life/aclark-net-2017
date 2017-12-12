@@ -1,0 +1,26 @@
+{
+  "name": "aclarknet-db",
+  "version": "1.0.0",
+  "description": "aclarknet-db ================================================================================",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aclarknet/aclarknet-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aclarknet/aclarknet-db/issues"
+  },
+  "homepage": "https://github.com/aclarknet/aclarknet-db#readme",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
