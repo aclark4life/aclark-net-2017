@@ -3,10 +3,10 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var webpack = require("webpack");
 
 module.exports = {
-    context: __dirname + "/project/app/assets",
+    context: __dirname + "/project/app/static",
     entry: "./entry",
     output: {
-        path: __dirname + "/project/app/assets/webpack_bundles",
+        path: __dirname + "/project/app/static/webpack_bundles",
         filename: "[name]-[hash].js"
     },
     plugins: [
