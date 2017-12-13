@@ -1,1 +1,1 @@
-{"status":"error","error":"ModuleNotFoundError","message":"Module not found: Error: Can't resolve 'jquery' in '/Users/alexclark/Developer/aclarknet/aclarknet-db/node_modules/bootstrap/dist/js'"}
+{"status":"done","chunks":{"main":[{"name":"main-169161ed96512419c949.js","path":"/Users/alexclark/Developer/aclarknet/aclarknet-db/aclarknet/db/static/webpack_bundles/main-169161ed96512419c949.js"},{"name":"main-169161ed96512419c949.css","path":"/Users/alexclark/Developer/aclarknet/aclarknet-db/aclarknet/db/static/webpack_bundles/main-169161ed96512419c949.css"}]}}
